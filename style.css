@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap');
+
+.entire{
+	color: white;
+	background-image: linear-gradient(360deg, white, pink, purple);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding-top: 100px;
+	box-sizing: border-box;
+
+}
+
+.webpage{
+	height: 79.5vh;
+	padding: 4vh;
+	text-align: center;
+	font-family: 'Clash Grotesk', sans-serif;
+}
+
+.title {
+  font-family: 'Modern Antiqua', serif;
+  font-size: 3vmax;
+  font-weight: bold;
+  color: white;
+}
+
+#title2{
+	padding: 0;
+	background-color
+	font-size: 4vmax;
+}
+
+.instructions{
+	text-align: center;
+	font-size: 1.3vmax;
+}
+
+.answer{
+	padding: 5vh;
+	position: relative;
+	top: 10vh;
+	-webkit-text-stroke: 0.5px black;
+
+}
+
+input, button{
+	padding: 1vh;
+	font-size: 2vh;
+	border-radius: 10px;
+	text-align: center;
+	font-family: 'Clash Grotesk', sans-serif;
+
+}
